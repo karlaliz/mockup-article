@@ -7,3 +7,7 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+*I learned to do my own research and followed carefully the instructions.
+*The easy part, was follow the instructions to use HTML syntax.
+*The hard part, was to install the extension of feedback in Chrome and make it work.
+*Yes, I used my problem solving strategies. I sought help in the forums and found a similar problem but didn't help me solve my problem. I asked a friend for help and with the help of him I discovered that I was missing a step in the installation.
